@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aaron</h1>
+<h1 align="center">Hi, I'm Aaron 👋</h1>
 <h3 align="center">Passionate about writing great games.</h3>
 
 - 🔭 I’m currently working on [Dexter](https://conceptalpha.co.uk/game/dexter)
