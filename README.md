@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a new Project, watch this space!
 
-- 💡 I’m currently learning **GML, SwiftUI, Swift**
+- 💡 I’m currently using **GML, SwiftUI, Swift, python**
 
 - 👨‍💻 All of my projects are available at [https://conceptalpha.itch.io](https://conceptalpha.itch.io)
 
