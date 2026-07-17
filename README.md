@@ -55,16 +55,6 @@ I’ve published games across Windows, macOS, iPhone and iPad, and I’m always 
 
 https://conceptalpha.itch.io
 
-⸻
-
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AaronThorne&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaronThorne&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
 
 ⸻
 
